@@ -142,6 +142,7 @@
 - [AgentWrapper/agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator) — 管理 agent 集群的 Agent IDE。
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) — 为长时间复杂任务设计的 harness（`omo` / `lazycodex`）。
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) — 多 agent 集群协调的 meta-harness。
+- [YYLO](https://github.com/yylo-dev/yylo) — 面向编码 agent 的命令行编排器：每个任务在独立 Git worktree 中运行，带类型化校验和风险分级的合并队列，Codex 是其内置 subagent 运行时之一。
 
 ## 客户端与远程访问
 
