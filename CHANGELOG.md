@@ -6,6 +6,12 @@ Format: additions grouped by section, then removals/fixes, then one line on what
 
 ---
 
+## 2026-W37 (2026-09-09)
+
+### Added
+
+- **Plugins** — Product Design, OpenAI's Codex plugin for user research synthesis, interactive prototyping, and user-flow reviews.
+
 ## 2026-W34 (2026-08-17)
 
 ### Added

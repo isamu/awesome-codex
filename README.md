@@ -92,6 +92,7 @@
 - [Plugins](https://learn.chatgpt.com/docs/plugins) — Browse, install, and use reusable capability bundles in the Codex CLI and supported ChatGPT surfaces. `(Official)`
 - [Build Plugins](https://learn.chatgpt.com/docs/build-plugins) — Package skills and MCP servers into installable bundles, then test them through a local marketplace. `(Official)`
 - [Skills & Plugins](https://learn.chatgpt.com/docs/skills-and-plugins) — Decide when a repeatable workflow should remain a skill and when it should become a shareable plugin. `(Official)`
+- [Product Design](https://openai.com/business/plugins/product-design/) — Codex plugin for synthesizing user research, creating interactive prototypes from briefs or visual references, and reviewing user flows to guide design iteration. `(Official)`
 - [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — Codex marketing plugin with 45 SEO, GEO, paid-media, and analytics workflows plus one hosted MCP connection for live account work.
 - [MARGINAL](https://github.com/SignalLayerLabs/Marginal) — Local-first Codex runtime governor that observes repeated tool work in Shadow Mode and gates narrow enforcement on verified evidence, explicit consent, and integrity checks.
 
