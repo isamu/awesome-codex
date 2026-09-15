@@ -151,6 +151,7 @@
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) — Web and mobile UI for driving Codex, Claude Code, Cursor CLI, and OpenCode.
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — Bridges local coding agents to messaging platforms so you can drive them from chat.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — Local, open-source desktop app for running Codex and other agents continuously.
+- [receptron/mulmoterminal](https://github.com/receptron/mulmoterminal) — Browser grid of live Claude Code / Codex sessions started with one `npx` command. Each cell is a real PTY with a colour-coded status, tmux-backed persistence, and a git worktree per cell. For Claude Code, needs-you is shown separately from done, read from the CLI's own hooks.
 
 ## Tools & Utilities
 
