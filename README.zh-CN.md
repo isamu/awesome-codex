@@ -161,6 +161,7 @@
 - [Skill Sunset](https://github.com/ooocooc/open-skill-sunset) — 用于检查过期 AGENTS.md、CLAUDE.md 与通用 SKILL.md 指令的本地只读审计工具。
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — 本地优先的桌面应用，给编码 agent 一个可对照的设计面。
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` 规范：像 AGENTS.md 描述代码库那样，向 agent 描述视觉规范。
+- [check-docs](https://github.com/ipaulsmith/check-docs) — 提交前检查 AGENTS.md、CLAUDE.md 及其导入文件中的失效路径。
 
 ## 中文资源
 
