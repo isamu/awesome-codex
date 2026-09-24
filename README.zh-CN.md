@@ -149,6 +149,7 @@
 
 - [slopus/happy](https://github.com/slopus/happy) — Codex 与 Claude Code 的移动端/网页客户端，支持实时语音和端到端加密。
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) — 在网页和手机上驱动 Codex、Claude Code、Cursor CLI、OpenCode。
+- [makorise/codex-local-hub](https://github.com/makorise/codex-local-hub) — 面向现有 Codex Desktop 任务的局域网浏览器伴侣，支持状态监控、排队与转向提示、用量查看和图片交付信箱。
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — 把本地编码 agent 接到 IM 平台，用聊天窗口指挥。
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — 本地开源桌面应用，可长时间挂着跑 Codex 等 agent。
 

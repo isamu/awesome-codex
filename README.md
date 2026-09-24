@@ -149,6 +149,7 @@
 
 - [slopus/happy](https://github.com/slopus/happy) — Mobile and web client for Codex and Claude Code, with realtime voice and end-to-end encryption.
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) — Web and mobile UI for driving Codex, Claude Code, Cursor CLI, and OpenCode.
+- [makorise/codex-local-hub](https://github.com/makorise/codex-local-hub) — Browser-based LAN companion for existing Codex Desktop tasks, with status monitoring, queued and steering prompts, usage visibility, and a visual-delivery inbox.
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) — Bridges local coding agents to messaging platforms so you can drive them from chat.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) — Local, open-source desktop app for running Codex and other agents continuously.
 
