@@ -161,6 +161,7 @@
 - [Skill Sunset](https://github.com/ooocooc/open-skill-sunset) — Local, read-only audit for stale AGENTS.md, CLAUDE.md, and generic SKILL.md instructions.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) — Local-first desktop app that gives a coding agent a design surface to work against.
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) — `DESIGN.md` spec: describes a visual identity to coding agents, the way AGENTS.md describes a codebase.
+- [check-docs](https://github.com/ipaulsmith/check-docs) — Pre-commit check for broken paths in AGENTS.md, CLAUDE.md, and their imported files.
 
 ## Chinese Resources
 
